@@ -1,0 +1,21 @@
+@charset "UTF-8";
+#index_top {
+	width: 100%;
+	height: 45px;
+    background:	url(../images/templatemo_top_bar.jpg) center no-repeat; 
+}
+#top_outer{
+	width: 940px;
+	height: 45px;
+	padding: 0 10px;
+	margin: 0 auto;
+    background:	url(../images/templatemo_top_bar.jpg) center no-repeat;
+}
+#top_inner{
+	float: right;
+	margin: 0;
+	padding: 0;
+	height: 27px;
+	list-style: none;
+	font-size: 13px;	
+}
